@@ -1,4 +1,4 @@
-let player = {
+ let player = {
     name: "MK",
     chips: 200
 }
